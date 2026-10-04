@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity=".22"/></filter></defs>
+<rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+<text x="600" y="42" text-anchor="middle" font-family="Arial" font-size="25" font-weight="700" fill="white">SUPPLY CHAIN INTELLIGENCE DECISION SYSTEM</text>
+<text x="600" y="67" text-anchor="middle" font-family="Arial" font-size="13" fill="white" opacity=".8">Analyze → Monitor → Simulate → Experiment → Decide</text>
+<g font-family="Arial" text-anchor="middle" filter="url(#shadow)">
+<g><rect x="30" y="105" width="195" height="100" rx="16" fill="white"/><text x="127" y="137" font-size="16" font-weight="700">01 Python</text><text x="127" y="161" font-size="12">EDA • KPIs • ML</text><text x="127" y="182" font-size="12">Insights</text></g>
+<g><rect x="250" y="105" width="195" height="100" rx="16" fill="white"/><text x="347" y="137" font-size="16" font-weight="700">02 Power BI</text><text x="347" y="161" font-size="12">Intelligence Hub</text><text x="347" y="182" font-size="12">Monitor</text></g>
+<g><rect x="470" y="105" width="195" height="100" rx="16" fill="white"/><text x="567" y="137" font-size="16" font-weight="700">03 Digital Twin</text><text x="567" y="161" font-size="12">What-if Simulation</text><text x="567" y="182" font-size="12">Scenarios</text></g>
+<g><rect x="690" y="105" width="195" height="100" rx="16" fill="white"/><text x="787" y="137" font-size="16" font-weight="700">04 A/B-Style</text><text x="787" y="161" font-size="12">Controlled Compare</text><text x="787" y="182" font-size="12">Statistics</text></g>
+<g><rect x="910" y="105" width="260" height="100" rx="16" fill="white"/><text x="1040" y="137" font-size="16" font-weight="700">05 Decision Loop</text><text x="1040" y="161" font-size="12">Pilot • Implement • Monitor</text><text x="1040" y="182" font-size="12">Back to Power BI</text></g>
+</g>
+<g stroke="white" stroke-width="3" fill="none" opacity=".8" stroke-dasharray="8 7">
+<path d="M225 155H245"/><path d="M445 155H465"/><path d="M665 155H685"/><path d="M885 155H905"/>
+<animate attributeName="stroke-dashoffset" from="30" to="0" dur="1s" repeatCount="indefinite"/>
+</g></svg>
